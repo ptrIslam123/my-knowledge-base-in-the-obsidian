@@ -261,7 +261,7 @@ libpcap-dev libsctp-dev vim nano iproute2 net-tools \
 tcpdump nmap wireshark tshark hping3 dnsutils netcat-openbsd \
 socat strace lsof iperf3 ethtool bridge-utils vlan iptables \ 
 whois gdb valgrind clang bear openssh-client libelf-dev \
-meson python3-pyelftools linux-headers-generic \
+meson python3-pyelftools linux-headers-generic gdbserver \
 && rm -rf /var/lib/apt/lists/*
 
 # Очистка кэша (экономим место)

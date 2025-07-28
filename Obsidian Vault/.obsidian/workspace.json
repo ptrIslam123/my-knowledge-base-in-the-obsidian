@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/Memory/Работа с большими страницами.md",
+                "file": "Программирование/Linux/Network/Technologies/VLAN (Virtual Local Area Network).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с большими страницами"
+              "title": "VLAN (Virtual Local Area Network)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AF",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 350.5
   },
   "right": {
     "id": "8dfb114b970e1b3c",
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Memory/Работа с большими страницами.md",
+                "file": "Программирование/Linux/Network/Technologies/VLAN (Virtual Local Area Network).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Работа с большими страницами"
+              "title": "Outline of VLAN (Virtual Local Area Network)"
             }
           }
         ],
@@ -182,43 +182,43 @@
   },
   "active": "102b6749147c0b2e",
   "lastOpenFiles": [
-    "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
-    "Программирование/Linux/Memory/Работа с большими страницами.md",
-    "Программирование/Linux/Network/Utils/ethtool.md",
-    "Программирование/Linux/Network/Hardwares/Ethernet-адаптер.md",
-    "Программирование/Linux/Network/Utils",
-    "2025-07-24.md",
-    "Untitled.canvas",
-    "Программирование/Linux/Memory/Виртуальная  память.md",
-    "Программирование/Linux/Network/Pktgen.md",
-    "Программирование/Linux/Network/Technologies/VLAN (Virtual Local Area Network).md",
     "Программирование/Linux/Network/Technologies/SSL & TLS Handshake.md",
-    "Программирование/Linux/Network/eBPF/Архитектура.md",
-    "Программирование/Linux/Network/eBPF/XDP.md",
-    "Программирование/Linux/Network/eBPF/AF_XDP sockets.md",
-    "Программирование/Linux/Профилирование/GDB.md",
+    "Программирование/Linux/Network/Technologies/VLAN (Virtual Local Area Network).md",
+    "Программирование/Linux/Network/Hardwares/Ethernet-адаптер.md",
+    "Программирование/Linux/Memory/Работа с большими страницами.md",
     "Программирование/Linux/Docker/Dockerfile.md",
-    "Программирование/Linux/Docker/Dockertcl.md",
     "Программирование/Linux/Docker/Docker-pipeline.md",
-    "Программирование/cpp/Concurrency/Work-stealing.md",
+    "Программирование/Linux/Docker/Dockertcl.md",
+    "Программирование/Linux/Профилирование/Degub in vs code.md",
+    "Программирование/Linux/Профилирование/GDB.md",
+    "Математика/Статистика/Перцинтрили.md",
+    "Программирование/cpp/Barriers.md",
+    "Программирование/cpp/Atomic.md",
+    "Программирование/cpp/RCU(Read-copy-update).md",
+    "Программирование/cpp/Достук к приватным методам и членам класса извне.md",
     "Программирование/cpp/Concurrency/Work-sharing.md",
+    "Программирование/Linux/Профилирование/Perf.md",
+    "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
+    "Физика/Электричество/Электрическое поле.md",
+    "Программирование/Linux/Network/eBPF/AF_XDP sockets.md",
+    "Программирование/Linux/Network/Utils/ethtool.md",
+    "Программирование/Linux/Network/Utils",
+    "Программирование/Linux/utils/tmux.md",
+    "Физика/Электричество/Закон кулона.md",
+    "Программирование/python/Взаимодействие с С & С++ библиотекой.md",
+    "Программирование/python",
+    "Программирование/cpp/Concurrency/Work-stealing.md",
+    "Программирование/cpp/TSAN.md",
     "Программирование/cpp/Concurrency",
-    "Программирование/Redis",
-    "Программирование/Kafka",
-    "Программирование",
-    "Физика/Электричество/Электричество.md",
-    "Физика/Электричество/Сила тока. Закон Ома.md",
-    "Физика/Электричество/Сопротивление.md",
-    "Физика/Электричество/Электроемкость.md",
-    "Физика/Электричество/Работа электричесткой цепи.md",
-    "Физика/Электричество/Мощность электрической цепи.md",
-    "Физика/Электричество/Напряжение тока(Разность потенциалов).md",
-    "Английский/граммаитика языка/Времена/Continuous Tenses/Будущее длительное(Future Continuous).md",
-    "Физика/Электричество",
-    "Физика",
-    "Английский/граммаитика языка/Времена/Perfect Tenses",
-    "Английский/граммаитика языка/Времена/Continuous Tenses",
-    "Химия/Металлы и неметаллы",
+    "Программирование/cpp",
+    "Программирование/ML/Tensorflow/NLP/tensorflow.keras Tokenizer.md",
+    "Программирование/ML/Tensorflow/NLP",
+    "Программирование/ML/Генетические алгоримты",
+    "Программирование/ML/numpy",
+    "Программирование/ML/Tensorflow",
+    "Программирование/ML",
+    "Программирование/Linux/Network/eBPF/libbpf",
+    "Untitled.canvas",
     "pictures/Screenshot from 2025-05-26 12-29-43.png",
     "pictures/f288c0b04ae8ee048800694932b84213.png",
     "pictures/25fb5981bef7af2cced9c51094611988.png",
