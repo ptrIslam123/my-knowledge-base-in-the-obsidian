@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9e1275249951d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/Электричество/Электрическое поле.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Электрическое поле"
-            }
-          },
-          {
             "id": "ec84c9bcceb86d4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/Электричество/Электричество.md",
+                "file": "Математика/Статистика/Регрессия/Гомоскидостичность и гетероскидастичность остатков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Электричество"
+              "title": "Гомоскидостичность и гетероскидастичность остатков"
             }
           },
           {
@@ -120,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 361.5
   },
   "right": {
     "id": "8dfb114b970e1b3c",
@@ -182,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/Электричество/Электрическое поле.md",
+                "file": "Математика/Статистика/Регрессия/Гомоскидостичность и гетероскидастичность остатков.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Электрическое поле"
+              "title": "Outline of Гомоскидостичность и гетероскидастичность остатков"
             }
           }
         ],
@@ -196,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,44 +194,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e1275249951d78",
+  "active": "ec84c9bcceb86d4d",
   "lastOpenFiles": [
-    "Физика/Электричество/Закон кулона.md",
-    "Физика/Электричество/Электрическое поле.md",
+    "Математика/Статистика/Коэффициент детерминации ( R^2 ).md",
+    "Математика/Статистика/Регрессия/Множественная линейная регрессия.md",
+    "Математика/Статистика/Регрессия/Гомоскидостичность и гетероскидастичность остатков.md",
+    "Математика/Статистика/Дисперсия.md",
+    "Математика/Статистика/Ковариация.md",
+    "Математика/Статистика/Перцинтрили.md",
+    "Математика/Статистика/Регрессия/Изучение тесноты связи по регрессии.md",
+    "Математика/Статистика/Регрессия/Изучение тесноты связи по множественной регрессии.md",
+    "Математика/Статистика/Регрессия/Линейная регрессия.md",
+    "Математика/Статистика/Регрессия/Логистическая регрессия.md",
+    "Математика/Статистика/Регрессия",
+    "Математика/Статистика/Математическое ожидание.md",
+    "Программирование/cpp/Memory order in atomic.md",
     "Физика/Электричество/Электричество.md",
-    "Физика/Электричество/Сила тока. Закон Ома.md",
-    "Физика/Электричество/Работа электричесткой цепи.md",
-    "Физика/Электричество/Электроемкость.md",
-    "Физика/Электричество/Напряжение тока(Разность потенциалов).md",
+    "Физика/Электричество/Электрическое поле.md",
     "Физика/Электричество/Сопротивление.md",
-    "Физика/Электричество/Мощность электрической цепи.md",
-    "Программирование/Linux/Docker/Dockerfile.md",
-    "Финансы/Технический",
-    "Финансы/Untitled.md",
-    "Программирование/Linux/Docker/Dockertcl.md",
-    "Программирование/Linux/Docker/Docker-pipeline.md",
-    "Программирование/Linux/Memory/Работа с большими страницами.md",
-    "Программирование/cpp/Concurrency/Work-stealing.md",
-    "Программирование/cpp/Concurrency/Work-sharing.md",
-    "Программирование/cpp/Concurrency",
-    "Программирование/Redis",
-    "Программирование/Kafka",
-    "Программирование",
-    "Английский/граммаитика языка/Времена/Continuous Tenses/Будущее длительное(Future Continuous).md",
-    "Химия/Химия.md",
-    "Физика/Электричество",
-    "Физика",
-    "Английский/граммаитика языка/Времена/Continuous Tenses/Прошедшее длительное(Past Continuous).md",
-    "Английский/граммаитика языка/Времена/Continuous Tenses/Настоящее длительное(Present Continuous).md",
-    "Английский/граммаитика языка/Времена/Simple Tenses/Простое прошедшее(Past Simple).md",
-    "Английский/граммаитика языка/Времена/Perfect Tenses",
-    "Английский/граммаитика языка/Времена/Continuous Tenses",
-    "Английский/граммаитика языка/Времена/Simple Tenses/Простое будущее(Future Simple).md",
-    "Английский/граммаитика языка/Времена/Simple Tenses/Настоящее простое(Present Simple).md",
-    "Английский/граммаитика языка/Части речи(Грамматические примитивы).md",
-    "Английский/граммаитика языка/Числительные (Numerals).md",
-    "Химия/Неорганические вещества/Неорганические вещества.md",
-    "Химия/Металлы и неметаллы",
+    "Физика/Электричество/Сила тока. Закон Ома.md",
+    "Физика/Электричество/Закон кулона.md",
+    "Программирование/Linux/Network/eBPF/libbpf/Загрузка и выгрузка eBPF программ.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_RINGBUF.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_QUEUE&STACK.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_PROG_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_PERF_EVENT_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_PERCPU_HASH.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_LRU_HASH.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_HASH.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/libbpf",
+    "Программирование/Linux/Network/eBPF/BPF-maps",
+    "Программирование/ML/Tensorflow/NLP",
+    "Программирование/Linux/Network/eBPF",
+    "Программирование/Linux/Network/Wifi",
+    "Программирование/Linux/Network/Utils",
+    "Программирование/Linux/Network/Technologies",
+    "Программирование/Linux/Network/Protocols",
+    "Программирование/Linux/Network/Hardwares",
     "pictures/Screenshot from 2025-05-26 12-29-43.png",
     "pictures/f288c0b04ae8ee048800694932b84213.png",
     "pictures/25fb5981bef7af2cced9c51094611988.png",
