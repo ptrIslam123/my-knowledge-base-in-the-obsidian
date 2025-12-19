@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
+                "file": "Программирование/Linux/Network/Socket/Raw socket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вежливые предложения и просьбы"
+              "title": "Raw socket"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
+                "file": "Программирование/Linux/Network/Socket/Raw socket.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Вежливые предложения и просьбы"
+              "title": "Outline of Raw socket"
             }
           }
         ],
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +183,13 @@
   },
   "active": "9f4c5fe07f6cd728",
   "lastOpenFiles": [
+    "Программирование/Linux/Network/Socket/Raw socket.md",
+    "Программирование/Linux/Network/Socket",
+    "Untitled",
+    "Программирование/Linux/Network/Socket/RAW Socket.md",
+    "Программирование/Linux/Network/Socket/AF_XDP Socket.md",
+    "Программирование/Linux/Network/eBPF/XDP.md",
+    "Программирование/Linux/Network/Socket",
     "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
     "Английский/граммаитика языка/Глагол/Модальные глаголы.md",
     "Английский/граммаитика языка/Глагол/Глаголы (Verbs).md",
@@ -206,19 +213,12 @@
     "Английский/граммаитика языка/Числительные (Numerals).md",
     "Английский/граммаитика языка/Части речи(Грамматические примитивы).md",
     "Английский/граммаитика языка/Существительные (Nouns).md",
-    "Английский/граммаитика языка/Прилагательные (Adjectives).md",
-    "Английский/граммаитика языка/Предлоги (Prepositions).md",
-    "Английский/граммаитика языка/Определение.md",
-    "Английский/граммаитика языка/Наречия (Adverbs).md",
     "Aлгоритмы и структуры данных/Вероятностные",
     "Aлгоритмы и структуры данных/Многопоточность",
     "теория отношении/Подходы",
     "Программирование/AI",
     "Финансы/Долг",
     "Программирование/Linux/Network/TinyNF",
-    "Программирование/DB",
-    "Программирование/Linux/FS/Hardware",
-    "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование",
     "pictures/tsla296340b4b8045fc9a87e75ef7a35d8d.png",
     "pictures/tlse5238736493f41489f5df57f94310962.png",
     "pictures/tsl6b10eda5d4c24928819a7a2e88fd3acd.png",
