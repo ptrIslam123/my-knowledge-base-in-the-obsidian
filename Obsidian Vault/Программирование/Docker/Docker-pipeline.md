@@ -205,3 +205,56 @@ volumes:
 ```bash
 docker-compose up -d
 ```
+
+
+---
+
+### Удаление образа и всего что с этим связано
+
+### Шаг 1: Проверьте, что использует образ
+
+```bash
+# Контейнеры, основанные на этом образе
+docker ps -a --filter "ancestor=<docker-image>" --format "table {{.ID}}\t{{.Names}}\t{{.Status}}"
+
+# Альтернатива — по ID образа
+docker ps -a --filter "ancestor=<docker-image-id>"
+```
+
+Если вывод не пустой — образ используется контейнерами.
+
+---
+
+### Шаг 2: Остановите и удалите контейнеры (если есть)
+
+```bash
+# Остановить ВСЕ контейнеры, основанные на образе
+docker stop $(docker ps -aq --filter "ancestor=<docker-image>")
+
+# Удалить их
+docker rm $(docker ps -aq --filter "ancestor=<docker-image>")
+```
+
+> ⚠️ **Важно:** Убедитесь, что эти контейнеры не критичны для вашей работы
+
+---
+
+### Шаг 3: Удалите сам образ
+
+```bash
+# Способ 1: по тегу
+docker rmi <docker-image>
+
+# Способ 2: по ID (если тег не удаляется)
+docker rmi <docker-image-id>
+```
+
+---
+
+### Шаг 4: Проверьте результат
+
+```bash
+docker images | grep <docker-image>
+```
+
+Если образ исчез из списка — удаление прошло успешно.

@@ -1,9 +1,5 @@
 # Как устроен VPN под капотом?
 
-- [1. Туннелирование (Tunneling)](https://dzen.ru/a/ZvWiVYiEvxDQwdCT#1_tynnelirovanie_tunneling)
-- [1.1. PPTP (Point-to-Point Tunneling Protocol)](https://dzen.ru/a/ZvWiVYiEvxDQwdCT#11_pptp_point_to_point_tunneling_prot)
-- [Структура протокола PPTP:](https://dzen.ru/a/ZvWiVYiEvxDQwdCT#stryktyra_protokola_pptp)
-
 **VPN** (виртуальная частная сеть, Virtual Private Network) — это технология, которая позволяет создать защищённое соединение через небезопасные сети, такие как Интернет.
 
 ## Вот как это работает по простому:

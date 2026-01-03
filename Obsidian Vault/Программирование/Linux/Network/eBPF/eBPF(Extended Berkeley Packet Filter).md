@@ -191,10 +191,3 @@ eBPF Maps — это **обобщенные структуры данных**, �
 [[BCC(BPF Compiler Collection)]]
 [[libbpf]]
 
-# Полезные ресурсы
-https://github.com/xdp-project/bpf-examples
-https://docs.kernel.org/bpf/index.html
-https://docs.ebpf.io/
-https://docs.ebpf.io/linux/helper-function/
-https://thegraynode.io/posts/
-https://eunomia.dev/tutorials/

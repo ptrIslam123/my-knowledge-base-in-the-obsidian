@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3ba82e948c6c4488",
+        "id": "9d19f7157a16016e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4c5fe07f6cd728",
+            "id": "8aee699984ce69fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/Network/Socket/Raw socket.md",
+                "file": "Программирование/Linux/Network/Technologies/TLS fingerprint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raw socket"
+              "title": "TLS fingerprint"
+            }
+          },
+          {
+            "id": "7575d70222ea18c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Linux/Network/eBPF/Полезные ресурсы eBPF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полезные ресурсы eBPF"
+            }
+          },
+          {
+            "id": "fa344dc11014e528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Linux/Network/Protocols/TLS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TLS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hug",
+                "query": "VLESS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -92,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 388.5
   },
   "right": {
     "id": "8dfb114b970e1b3c",
@@ -154,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Network/Socket/Raw socket.md",
+                "file": "Программирование/Linux/Network/eBPF/Полезные ресурсы eBPF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Raw socket"
+              "title": "Структура Полезные ресурсы eBPF"
             }
           }
         ],
@@ -172,53 +201,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "9f4c5fe07f6cd728",
+  "active": "7575d70222ea18c7",
   "lastOpenFiles": [
-    "Программирование/Linux/Network/Socket/Raw socket.md",
-    "Программирование/Linux/Network/Socket",
+    "Программирование/python/pip/pip install.md",
+    "Программирование/Linux/Network/eBPF/eBPF(Extended Berkeley Packet Filter).md",
+    "Программирование/Linux/Network/eBPF/Полезные ресурсы eBPF.md",
+    "Aлгоритмы и структуры данных/Распределенные алгоритмы/Распределённое обнаружение отказов.md",
+    "Программирование/Linux/Network/Protocols/IGMP — Internet Group Management Protocol.md",
+    "Aлгоритмы и структуры данных/Распределенные алгоритмы",
+    "Программирование/Linux/Network/Technologies/Расспределенные алгоритмы",
+    "Программирование/Linux/Network/Technologies/Multicast/Multicast.md",
+    "Программирование/Linux/Network/Technologies/TLS fingerprint.md",
+    "Программирование/Linux/Network/Protocols/TLS.md",
+    "Программирование/Linux/Network/Technologies/SIN(Server Name Indication).md",
+    "Программирование/Linux/Профилирование/GDB.md",
+    "Программирование/Linux/Network/Technologies/SSL && TLS.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_QUEUE&STACK.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_PROG_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_PERF_EVENT_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_ARRAY.md",
+    "Программирование/Linux/Network/eBPF/BPF-maps/BPF_MAP_TYPE_HASH.md",
+    "Резюме/Convertor.md",
+    "Резюме/Программист.ru.md",
+    "Резюме/Программист.en.md",
+    "Программирование/Linux/Network/Technologies/VXLAN.md",
+    "Финансы/Крипта/Криптобиржы/Цифрамаркет.md",
+    "Финансы/Крипта/Криптобиржы",
+    "Финансы/Крипта",
+    "Маркетинг и продажи/Основы маркетинга.md",
+    "Программирование/Linux/Network/Protocols/Protocols.md",
+    "Резюме/Программист.pdf",
+    "Резюме/Программист.html",
+    "Резюме",
     "Untitled",
-    "Программирование/Linux/Network/Socket/RAW Socket.md",
-    "Программирование/Linux/Network/Socket/AF_XDP Socket.md",
-    "Программирование/Linux/Network/eBPF/XDP.md",
-    "Программирование/Linux/Network/Socket",
-    "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
-    "Английский/граммаитика языка/Глагол/Модальные глаголы.md",
-    "Английский/граммаитика языка/Глагол/Глаголы (Verbs).md",
-    "Английский/граммаитика языка/Глагол",
-    "Английский/Интеересные конструкции/To pull it off.md",
-    "Английский/Интеересные конструкции/Recommend doing something as needed.md",
-    "Английский/Интеересные конструкции/Я бы хотел рассмотреть следующие вопросы здесь.md",
-    "Английский/Интеересные конструкции/Я бы никогда ....md",
-    "Английский/Интеересные конструкции/что-то способствует чему-то.md",
-    "Английский/Интеересные конструкции/Что-то может иметь как позитивние, так и негативное ....md",
-    "Английский/Интеересные конструкции/что-то было или происходило так долго насколько я себя помню.md",
-    "Английский/Интеересные конструкции/Так принято делать.md",
-    "Английский/Интеересные конструкции/Столкнуться с трудностями на пути.md",
-    "Английский/Интеересные конструкции/Проявить себя как.md",
-    "Английский/Интеересные конструкции/Принять участик в ....md",
-    "Английский/Интеересные конструкции/Конструкция для призыва к действию.md",
-    "Английский/Интеересные конструкции/Инвестировать время в что-то.md",
-    "Английский/Интеересные конструкции/Быть заинтересованным, увлеченным.md",
-    "Английский/Интеересные конструкции/Болеть за(поддерживать) кого-то.md",
-    "Английский/граммаитика языка/Subject.md",
-    "Английский/граммаитика языка/Числительные (Numerals).md",
-    "Английский/граммаитика языка/Части речи(Грамматические примитивы).md",
-    "Английский/граммаитика языка/Существительные (Nouns).md",
-    "Aлгоритмы и структуры данных/Вероятностные",
-    "Aлгоритмы и структуры данных/Многопоточность",
-    "теория отношении/Подходы",
-    "Программирование/AI",
-    "Финансы/Долг",
-    "Программирование/Linux/Network/TinyNF",
+    "Программирование/Linux/Network/Protocols/TCP.md",
+    "Программирование/Linux/Network/Protocols/ICMP.md",
+    "Программирование/Linux/Network/Protocols/BGP.md",
+    "Программирование/Linux/Network/Technologies/Multicast",
+    "ВНЖ",
+    "pictures/mcr-udp.png",
+    "pictures/mcr-tcp.png",
+    "pictures/AS.png",
     "pictures/tsla296340b4b8045fc9a87e75ef7a35d8d.png",
     "pictures/tlse5238736493f41489f5df57f94310962.png",
     "pictures/tsl6b10eda5d4c24928819a7a2e88fd3acd.png",
@@ -226,9 +258,6 @@
     "pictures/f288c0b04ae8ee048800694932b84213.png",
     "pictures/25fb5981bef7af2cced9c51094611988.png",
     "pictures/0_initial.svg",
-    "pictures/linux_kernel_network_stack.png",
-    "pictures/6664aeff-0565-4097-9b5d-2e585b2e19e2.webp",
-    "pictures/5298842543854838626.jpg",
     "Без названия.canvas",
     "Untitled.canvas"
   ]
