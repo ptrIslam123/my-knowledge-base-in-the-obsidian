@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/Network/Technologies/SYN Cookie.md",
+                "file": "Программирование/Linux/Network/Protocols/SCTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYN Cookie"
+              "title": "SCTP"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Network/Technologies/SYN Cookie.md",
+                "file": "Программирование/Linux/Network/Protocols/SCTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SYN Cookie"
+              "title": "Структура SCTP"
             }
           }
         ],
@@ -226,8 +226,15 @@
   },
   "active": "cdb5565d2a17bcc3",
   "lastOpenFiles": [
-    "Программирование/Linux/Network/Protocols/TCP.md",
+    "029_5.gif",
+    "pictures/029_4.gif",
+    "029_2.gif",
+    "pictures/029_2.gif",
+    "pictures/029_1.gif",
+    "Программирование/Linux/Network/Protocols/SCTP.md",
+    "029_1 1.gif",
     "Программирование/Linux/Network/Technologies/SYN Cookie.md",
+    "Программирование/Linux/Network/Protocols/TCP.md",
     "Программирование/Linux/Network/Protocols/TLS.md",
     "Aлгоритмы и структуры данных/Деревья/B-дерево.md",
     "Aлгоритмы и структуры данных/Распределенные алгоритмы/Шардирование.md",
@@ -252,11 +259,9 @@
     "Aлгоритмы и структуры данных/Распределенные алгоритмы/Распределённое обнаружение отказов.md",
     "Программирование/DB/SQL/INDEXES.md",
     "pictures/width_1280_q80.webp",
-    "Контрмера «Защита от атак на протокол TCP».md",
+    "pictures/Контрмера «Защита от атак на протокол TCP».md",
     "Программирование/DB/SQL/JOIN.md",
     "Программирование/DB/SQL/GROUP BY.md",
-    "Программирование/DB/SQL/Синтаксис/Базовые команды SQL.md",
-    "Английский/граммаитика языка/Условные предложения/Условные предложения.md",
     "Английский/граммаитика языка/Условные предложения",
     "Финансы/Крипта/Криптобиржы",
     "Финансы/Крипта",
@@ -267,11 +272,6 @@
     "pictures/mcr-tcp.png",
     "pictures/AS.png",
     "pictures/tsla296340b4b8045fc9a87e75ef7a35d8d.png",
-    "pictures/tlse5238736493f41489f5df57f94310962.png",
-    "pictures/tsl6b10eda5d4c24928819a7a2e88fd3acd.png",
-    "pictures/Screenshot from 2025-05-26 12-29-43.png",
-    "pictures/f288c0b04ae8ee048800694932b84213.png",
-    "pictures/25fb5981bef7af2cced9c51094611988.png",
     "Без названия.canvas",
     "Untitled.canvas"
   ]
