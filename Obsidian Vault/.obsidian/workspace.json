@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Интеересные конструкции/Is finished.md",
+                "file": "Программирование/python/asyncio/asyncio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Is finished"
+              "title": "asyncio"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Интеересные конструкции/Is finished.md",
+                "file": "Программирование/python/asyncio/asyncio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Is finished"
+              "title": "Структура asyncio"
             }
           }
         ],
@@ -240,10 +240,12 @@
   },
   "active": "2a00b7a76f694ca3",
   "lastOpenFiles": [
+    "Английский/Интеересные конструкции/Is finished.md",
+    "Программирование/python/asyncio/asyncio.md",
+    "Программирование/python/asyncio",
     "Английский/Интеересные конструкции/run out of something.md",
     "Английский/Интеересные конструкции/Is gone.md",
     "Английский/Интеересные конструкции/Is over.md",
-    "Английский/Интеересные конструкции/Is finished.md",
     "Aлгоритмы и структуры данных/Двухуказательный метод (Two Pointers).md",
     "Aлгоритмы и структуры данных/Паттерны решения алгоритмических задач.md",
     "Aлгоритмы и структуры данных/Скользяще окно (Sliding Window).md",
@@ -269,7 +271,6 @@
     "Программирование/SQL/Синтаксис",
     "Программирование/SQL/JOIN.md",
     "Программирование/SQL/INDEXES.md",
-    "Программирование/SQL/GROUP BY.md",
     "Программирование/SQL",
     "Английский/граммаитика языка/Условные предложения",
     "pictures/029_4.gif",
@@ -279,7 +280,6 @@
     "029_5.gif",
     "теория отношении/Чатинг/Первое сообщение",
     "теория отношении/Чатинг/Обмен медиа",
-    "теория отношении/Чатинг",
     "pictures/mcr-udp.png",
     "pictures/mcr-tcp.png",
     "pictures/AS.png",
