@@ -50,31 +50,17 @@
             }
           },
           {
-            "id": "a2c6c164e112f17b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Файловая изоляция в Linux через `mount namespace`"
-            }
-          },
-          {
             "id": "2a00b7a76f694ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aлгоритмы и структуры данных/Вероятностные структуры данных и алгоритмы.md",
+                "file": "Программирование/Linux/Namespaces/Network Namespaces в Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вероятностные структуры данных и алгоритмы"
+              "title": "Network Namespaces в Linux"
             }
           }
         ],
@@ -211,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
+                "file": "Программирование/Linux/Namespaces/Network Namespaces в Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Файловая изоляция в Linux через `mount namespace`"
+              "title": "Структура Network Namespaces в Linux"
             }
           }
         ],
@@ -238,14 +224,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a2c6c164e112f17b",
+  "active": "2a00b7a76f694ca3",
   "lastOpenFiles": [
-    "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование/Локально-чувствительное хеширование (LSH).md",
+    "Aлгоритмы и структуры данных/Вероятностные структуры данных и алгоритмы.md",
+    "Программирование/Linux/Namespaces/Network Namespaces в Linux.md",
+    "Программирование/Linux/Posix/Posix Shared Memory.md",
+    "Программирование/Linux/Posix/Memory map.md",
     "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
+    "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование/Локально-чувствительное хеширование (LSH).md",
     "Программирование/Linux/Namespaces",
     "Aлгоритмы и структуры данных/Вероятностные/MinHash.md",
     "Aлгоритмы и структуры данных/Паттерны решения алгоритмических задач.md",
-    "Aлгоритмы и структуры данных/Вероятностные структуры данных и алгоритмы.md",
     "Программирование/Информационная безопасность/IDS Системы обнаружения вторжений.md",
     "Программирование/Network/Technologies/TLS Session Resumption (session reuse).md",
     "Программирование/Network/Technologies/SYN Cookie.md",
@@ -265,9 +254,6 @@
     "Aлгоритмы и структуры данных/Разделяй и властвуй (Divide and Conquer).md",
     "Программирование/cpp/Concurrency/Архитектура процессоров, когерентность кэшей и барьеры памяти.md",
     "Программирование/cpp/Concurrency/Barriers.md",
-    "Программирование/cpp/Concurrency/Atomic.md",
-    "Программирование/cpp/Concurrency/Posix syscall rseq.md",
-    "Программирование/cpp/Достук к приватным методам и членам класса извне.md",
     "Финансы/Крипта/Криптобиржы",
     "Финансы/Крипта",
     "Резюме",
