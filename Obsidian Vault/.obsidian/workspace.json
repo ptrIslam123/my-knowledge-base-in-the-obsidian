@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование/Локально-чувствительное хеширование (LSH).md",
+                "file": "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Локально-чувствительное хеширование (LSH)"
+              "title": "Файловая изоляция в Linux через `mount namespace`"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MinHash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +145,7 @@
               "title": "Основны машинного обучения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование/Локально-чувствительное хеширование (LSH).md",
+                "file": "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Локально-чувствительное хеширование (LSH)"
+              "title": "Структура Файловая изоляция в Linux через `mount namespace`"
             }
           }
         ],
@@ -241,8 +240,10 @@
   },
   "active": "a2c6c164e112f17b",
   "lastOpenFiles": [
-    "Aлгоритмы и структуры данных/Вероятностные/MinHash.md",
     "Aлгоритмы и структуры данных/Хеш таблицы и множества/Хеширование/Локально-чувствительное хеширование (LSH).md",
+    "Программирование/Linux/Namespaces/Файловая изоляция в Linux через `mount namespace`.md",
+    "Программирование/Linux/Namespaces",
+    "Aлгоритмы и структуры данных/Вероятностные/MinHash.md",
     "Aлгоритмы и структуры данных/Паттерны решения алгоритмических задач.md",
     "Aлгоритмы и структуры данных/Вероятностные структуры данных и алгоритмы.md",
     "Программирование/Информационная безопасность/IDS Системы обнаружения вторжений.md",
@@ -267,7 +268,6 @@
     "Программирование/cpp/Concurrency/Atomic.md",
     "Программирование/cpp/Concurrency/Posix syscall rseq.md",
     "Программирование/cpp/Достук к приватным методам и членам класса извне.md",
-    "Программирование/Linux/Memory/Posix Shared Memory.md",
     "Финансы/Крипта/Криптобиржы",
     "Финансы/Крипта",
     "Резюме",
@@ -280,7 +280,6 @@
     "Aлгоритмы и структуры данных/Распределенные алгоритмы",
     "pictures/029_5.gif",
     "теория отношении/Чатинг/Первое сообщение",
-    "теория отношении/Чатинг/Обмен медиа",
     "pictures/mcr-udp.png",
     "pictures/mcr-tcp.png",
     "pictures/AS.png",
