@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/Namespaces/LXC/LXC (Linux Container).md",
+                "file": "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LXC (Linux Container)"
+              "title": "Полный и детальный процесс доступа к памяти в современном CPU"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NUMA",
+                "query": "perf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Основны машинного обучения"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Namespaces/LXC/LXC (Linux Container).md",
+                "file": "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура LXC (Linux Container)"
+              "title": "Структура Полный и детальный процесс доступа к памяти в современном CPU"
             }
           }
         ],
@@ -183,13 +184,22 @@
   },
   "active": "6b27ea6bd21da88c",
   "lastOpenFiles": [
-    "Программирование/Linux/Namespaces/Docker/Docker.md",
-    "Программирование/Linux/Namespaces/LXC/LXC (Linux Container).md",
-    "Программирование/Linux/Namespaces/Docker/Docker-pipeline.md",
+    "Программирование/cpp/Выравнивание памяти.md",
+    "Программирование/cpp/Concurrency/Atomic.md",
+    "Резюме/Ответы на менеджерских интервью.md",
     "Программирование/Network/Technologies/sFlow.md",
+    "Программирование/AI/Сервисы.md",
+    "Программирование/Linux/Namespaces/Docker/Docker.md",
+    "Программирование/Linux/Namespaces/Docker/Хранение данных в Docker.md",
+    "Программирование/Linux/Namespaces/Docker/Docker network.md",
+    "Программирование/Linux/Memory/DMA (Direct Memory Access).md",
+    "Программирование/Linux/Namespaces/Docker/Dockertcl.md",
+    "Программирование/Linux/Namespaces/Docker/Dockerfile.md",
+    "Программирование/Linux/Namespaces/Docker/Docker-pipeline.md",
+    "Программирование/Linux/Namespaces/Docker/Docker Swarm.md",
+    "Программирование/Linux/Namespaces/LXC/LXC (Linux Container).md",
     "Программирование/Linux/Namespaces/LXC",
     "Программирование/Linux/Memory/NUMA.md",
-    "Программирование/Linux/Memory/DMA (Direct Memory Access).md",
     "Программирование/Linux/Memory/Работа с большими страницами.md",
     "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
     "Программирование/Linux/Memory/Виртуальная  память.md",
@@ -201,15 +211,6 @@
     "Программирование/Network/Technologies/MITM (Man-in-the-Middle) SSL.md",
     "Программирование/Network/Technologies/NFV (Network Functions Virtualization).md",
     "Программирование/Network/Technologies/VXLAN.md",
-    "Программирование/Network/Technologies/VPN.md",
-    "Программирование/Network/Technologies/VLAN (Virtual Local Area Network).md",
-    "Программирование/Network/Technologies/TLS Session Resumption (session reuse).md",
-    "Программирование/Network/Technologies/TLS fingerprint.md",
-    "Программирование/Network/Technologies/SYN Cookie.md",
-    "Программирование/Network/Technologies/STP и широковещательные штормы.md",
-    "Программирование/Network/Technologies/SSL && TLS.md",
-    "Программирование/Network/Technologies/SIN(Server Name Indication).md",
-    "Программирование/Network/NAT/Виды/Статический NAT (Static Network Address Translation).md",
     "Программирование/Linux/Namespaces",
     "Программирование/python/asyncio",
     "Финансы/Крипта/Криптобиржы",
