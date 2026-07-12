@@ -6,12 +6,12 @@
 
 ## Когда можно уптреблять
 
-| Категория | Примеры |
-|-----------|---------|
-| **События** | *The concert is over, the movie is over, the game is over, the meeting is over* |
-| **Периоды времени** | *Summer is over, the holiday is over, the weekend is over* |
-| **Отношения / состояния** | *The relationship is over, the fight is over, the crisis is over* |
-| **Процессы** | *The storm is over, the rain is over, the waiting is over* |
+| Категория                 | Примеры                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **События**               | *The concert is over, the movie is over, the game is over, the meeting is over* |
+| **Периоды времени**       | *Summer is over, the holiday is over, the weekend is over*                      |
+| **Отношения / состояния** | *The relationship is over, the fight is over, the crisis is over*               |
+| **Процессы**              | *The storm is over, the rain is over, the waiting is over*                      |
 
 **Общая черта:** у всего этого есть **начало и конец** как у процесса или отрезка времени.
 

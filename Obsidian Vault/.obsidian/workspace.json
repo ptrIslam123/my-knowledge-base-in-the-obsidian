@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
+                "file": "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полный и детальный процесс доступа к памяти в современном CPU"
+              "title": "Запрет на выгрузку страниц из оперативной памяти"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perf",
+                "query": "VF(Virtual Func)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -88,12 +88,11 @@
               "title": "Основны машинного обучения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 382.5
   },
   "right": {
     "id": "8dfb114b970e1b3c",
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
+                "file": "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Полный и детальный процесс доступа к памяти в современном CPU"
+              "title": "Outline of Запрет на выгрузку страниц из оперативной памяти"
             }
           }
         ],
@@ -173,44 +172,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "6b27ea6bd21da88c",
   "lastOpenFiles": [
-    "Программирование/cpp/Выравнивание памяти.md",
+    "Программирование/Network/Hardwares/PF & FV (Physical Function & Virtual Function).md",
+    "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
+    "Программирование/cpp/Performance",
+    "Программирование/Network/Hardwares/Архитектура Ethernet-адаптер.md",
+    "Программирование/Network/DPDK/dpdk@drivers@net@virtio@virtio_ethdev.md",
+    "Программирование/Network/TinyNF/Initialization section.md",
     "Программирование/cpp/Concurrency/Atomic.md",
+    "Программирование/Linux/Виртуализация/VDSO(Virtual Dynamic Shared Object).md",
+    "Программирование/Linux/Профилирование/Perf.md",
+    "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
+    "Английский/Интеересные конструкции/Быть заинтересованным, увлеченным.md",
+    "Английский/Интеересные конструкции/Болеть за(поддерживать) кого-то.md",
+    "Английский/Интеересные конструкции/To pull it off.md",
+    "Английский/Интеересные конструкции/to be adjective of + V-ing.md",
+    "Английский/Интеересные конструкции/run out of something.md",
+    "Английский/Интеересные конструкции/Recommend doing something as needed.md",
+    "Английский/Интеересные конструкции/Is over.md",
+    "Английский/Интеересные конструкции/Is gone.md",
+    "Английский/Интеересные конструкции/Is finished.md",
+    "Английский/граммаитика языка/Условные предложения/Условные предложения.md",
+    "Английский/граммаитика языка/Условные предложения/Сослогательное наклонение.md",
+    "теория отношении/Чатинг/Первое сообщение/Варианты первого сообщения.md",
+    "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
+    "Программирование/cpp/Выравнивание памяти.md",
     "Резюме/Ответы на менеджерских интервью.md",
     "Программирование/Network/Technologies/sFlow.md",
     "Программирование/AI/Сервисы.md",
-    "Программирование/Linux/Namespaces/Docker/Docker.md",
-    "Программирование/Linux/Namespaces/Docker/Хранение данных в Docker.md",
-    "Программирование/Linux/Namespaces/Docker/Docker network.md",
-    "Программирование/Linux/Memory/DMA (Direct Memory Access).md",
-    "Программирование/Linux/Namespaces/Docker/Dockertcl.md",
-    "Программирование/Linux/Namespaces/Docker/Dockerfile.md",
-    "Программирование/Linux/Namespaces/Docker/Docker-pipeline.md",
-    "Программирование/Linux/Namespaces/Docker/Docker Swarm.md",
-    "Программирование/Linux/Namespaces/LXC/LXC (Linux Container).md",
     "Программирование/Linux/Namespaces/LXC",
-    "Программирование/Linux/Memory/NUMA.md",
-    "Программирование/Linux/Memory/Работа с большими страницами.md",
-    "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
-    "Программирование/Linux/Memory/Виртуальная  память.md",
-    "Программирование/Linux/Memory/Архитектура памяти.md",
-    "Программирование/Network/Technologies/Маршрутищация/Маршрутизация.md",
-    "Программирование/Network/Technologies/Анализ с помощью TLS JA3 & JA4 отпечатков.md",
-    "Программирование/Network/Technologies/Flow.md",
-    "Программирование/Network/Technologies/MITIGATOR Challenge Response.md",
-    "Программирование/Network/Technologies/MITM (Man-in-the-Middle) SSL.md",
-    "Программирование/Network/Technologies/NFV (Network Functions Virtualization).md",
-    "Программирование/Network/Technologies/VXLAN.md",
     "Программирование/Linux/Namespaces",
     "Программирование/python/asyncio",
     "Финансы/Крипта/Криптобиржы",
@@ -222,7 +222,6 @@
     "pictures/029_4.gif",
     "pictures/029_2.gif",
     "pictures/029_1.gif",
-    "Aлгоритмы и структуры данных/Распределенные алгоритмы",
     "pictures/029_5.gif",
     "pictures/mcr-udp.png",
     "pictures/mcr-tcp.png",
