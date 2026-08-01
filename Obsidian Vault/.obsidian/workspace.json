@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
+                "file": "Программирование/Network/Architecture/High-Speed Networking/Архитектура высокопроизводительной обработки трафика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запрет на выгрузку страниц из оперативной памяти"
+              "title": "Архитектура высокопроизводительной обработки трафика"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VF(Virtual Func)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
+                "file": "Программирование/Network/Architecture/High-Speed Networking/Архитектура высокопроизводительной обработки трафика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Запрет на выгрузку страниц из оперативной памяти"
+              "title": "Outline"
             }
           }
         ],
@@ -183,14 +185,34 @@
   },
   "active": "6b27ea6bd21da88c",
   "lastOpenFiles": [
+    "Программирование/Network/DPDK/Receive Side Scaling (RSS).md",
+    "Программирование/Network/Architecture/High-Speed Networking/Архитектура высокопроизводительной обработки трафика.md",
+    "Программирование/Linux/Sockets/Netlink.md",
+    "Программирование/Network/Architecture/High-Speed Networking",
+    "Программирование/Network/Architecture",
+    "Программирование/IDEA/nvim/Навигация.md",
+    "Программирование/Linux/Sockets",
+    "Программирование/IDEA/nvim/Окна.md",
+    "Программирование/IDEA/nvim/Настройка.md",
+    "Программирование/IDEA/nvim/tree.lua.md",
+    "Программирование/git/gitignore.local.md",
+    "Программирование/IDEA/nvim",
+    "Программирование/Linux/gcc/Compile commands.md",
+    "Программирование/git",
+    "Программирование/python/pip/pip install.md",
+    "Программирование/Linux/gcc",
     "Программирование/Network/Hardwares/PF & FV (Physical Function & Virtual Function).md",
+    "Программирование/Linux/Виртуализация/KVM && QEMU.md",
+    "Программирование/Linux/Виртуализация/VDSO(Virtual Dynamic Shared Object).md",
+    "Программирование/IDEA/vscode/VSCode Short Cut.md",
     "Программирование/cpp/Performance/Запрет на выгрузку страниц из оперативной памяти.md",
+    "Программирование/IDEA/vscode",
+    "Программирование/IDEA",
     "Программирование/cpp/Performance",
     "Программирование/Network/Hardwares/Архитектура Ethernet-адаптер.md",
     "Программирование/Network/DPDK/dpdk@drivers@net@virtio@virtio_ethdev.md",
     "Программирование/Network/TinyNF/Initialization section.md",
     "Программирование/cpp/Concurrency/Atomic.md",
-    "Программирование/Linux/Виртуализация/VDSO(Virtual Dynamic Shared Object).md",
     "Программирование/Linux/Профилирование/Perf.md",
     "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
     "Английский/Интеересные конструкции/Быть заинтересованным, увлеченным.md",
@@ -198,27 +220,7 @@
     "Английский/Интеересные конструкции/To pull it off.md",
     "Английский/Интеересные конструкции/to be adjective of + V-ing.md",
     "Английский/Интеересные конструкции/run out of something.md",
-    "Английский/Интеересные конструкции/Recommend doing something as needed.md",
-    "Английский/Интеересные конструкции/Is over.md",
-    "Английский/Интеересные конструкции/Is gone.md",
-    "Английский/Интеересные конструкции/Is finished.md",
-    "Английский/граммаитика языка/Условные предложения/Условные предложения.md",
-    "Английский/граммаитика языка/Условные предложения/Сослогательное наклонение.md",
-    "теория отношении/Чатинг/Первое сообщение/Варианты первого сообщения.md",
-    "Программирование/Linux/Memory/Полный и детальный процесс доступа к памяти в современном CPU.md",
-    "Программирование/cpp/Выравнивание памяти.md",
-    "Резюме/Ответы на менеджерских интервью.md",
-    "Программирование/Network/Technologies/sFlow.md",
-    "Программирование/AI/Сервисы.md",
     "Программирование/Linux/Namespaces/LXC",
-    "Программирование/Linux/Namespaces",
-    "Программирование/python/asyncio",
-    "Финансы/Крипта/Криптобиржы",
-    "Финансы/Крипта",
-    "Резюме",
-    "Программирование/SQL/Синтаксис",
-    "Программирование/SQL",
-    "Английский/граммаитика языка/Условные предложения",
     "pictures/029_4.gif",
     "pictures/029_2.gif",
     "pictures/029_1.gif",
