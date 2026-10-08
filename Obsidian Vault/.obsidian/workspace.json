@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Network/DPDK/DPDK workflow.md",
+                "file": "Программирование/AI/AI/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DPDK workflow"
+              "title": "Untitled"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Network/DPDK/DPDK workflow.md",
+                "file": "Программирование/AI/AI/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +185,12 @@
   },
   "active": "63313e4659210615",
   "lastOpenFiles": [
-    "Программирование/Network/DPDK/DPDK (Data Plane Development Kit).md",
+    "Программирование/AI/AI/Сервисы.md",
+    "Программирование/AI/AI/Untitled.md",
+    "Программирование/AI/AI/Gemini.md",
+    "Программирование/AI/Сервисы.md",
     "Программирование/Network/DPDK/DPDK workflow.md",
+    "Программирование/Network/DPDK/DPDK (Data Plane Development Kit).md",
     "Программирование/Network/DPDK/DPDK rte_ring.md",
     "Программирование/Network/DPDK/Руководство по настройке сетевой подсистемы Linux для работы с DPDK.md",
     "Программирование/Network/Architecture/High-Speed Networking/Архитектура высокопроизводительной обработки трафика.md",
@@ -216,10 +220,6 @@
     "Программирование/Network/Hardwares/Архитектура Ethernet-адаптер.md",
     "Программирование/Network/DPDK/dpdk@drivers@net@virtio@virtio_ethdev.md",
     "Программирование/Network/TinyNF/Initialization section.md",
-    "Программирование/cpp/Concurrency/Atomic.md",
-    "Программирование/Linux/Профилирование/Perf.md",
-    "Английский/Интеересные конструкции/Вежливые предложения и просьбы.md",
-    "Английский/Интеересные конструкции/Быть заинтересованным, увлеченным.md",
     "Программирование/Linux/Namespaces/LXC",
     "pictures/029_4.gif",
     "pictures/029_2.gif",
